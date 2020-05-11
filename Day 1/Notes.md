@@ -19,6 +19,7 @@ I had to display my name in 5 fonts (h1 to h5) at runtime. So I had 2 methods:
    Now, this method gives all the element by the class name "demo" in an array.
    We can access these by saying *x[0]*, *x[1]*....
    
-  
+  <img src="Assignment 3/images/html.png"> </img>
+  <img src="Assignment 3/images/JS.png"> </img>
 
 

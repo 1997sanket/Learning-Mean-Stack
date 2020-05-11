@@ -5,6 +5,7 @@
 * typeof *null* is **Object**
 * typeof *array* is **Object**
 * In JS arrays are Objects.
+* *document.write()* is a bad practice (I'm not entirely sure why).
 
 ---
 

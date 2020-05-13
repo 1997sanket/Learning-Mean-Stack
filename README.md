@@ -1,2 +1,2 @@
 # Learning-Mean-Stack
-Having fun in  learning  Mean Stack in quarantine 
+Having fun, learning  Mean Stack in quarantine 

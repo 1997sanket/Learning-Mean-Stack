@@ -42,7 +42,7 @@
 
 ---
 
--   \*_HTMLCollection and NodeList_
+-   **HTMLCollection and NodeList**
 
 1. When we say `let x = document.getElementsByClassName('demo')`, it returns us a collection of all the tags with class
    name 'demo'. We can access each of the element using array like syntax Eg: `x[0]`...

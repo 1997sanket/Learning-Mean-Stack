@@ -1,0 +1,5 @@
+1. https://javascript.info/browser-environment
+
+2. http://www.javascriptkit.com/complete/javascript5.htm
+
+3. https://www.tutorialspoint.com/javascript/javascript_html_dom.htm

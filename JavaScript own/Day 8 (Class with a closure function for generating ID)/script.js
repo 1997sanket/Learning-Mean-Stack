@@ -62,22 +62,3 @@ console.log(e1.empID, e1.empName, e1.empSalary, e1.netSalary());
 console.log(e2.empID, e2.empName, e2.empSalary, e2.netSalary());
 console.log(e3.empID, e3.empName, e3.empSalary, e3.netSalary());
 
-
-
-
-
-// class Car {
-//     constructor(brand) {
-//         this.carname = brand;
-//     }
-//     get cnam() {
-//         return this.carname;
-//     }
-//     set cnam(x) {
-//         this.carname = x;
-//     }
-// }
-
-// let mycar = new Car("Ford");
-
-// console.log(mycar.carname);
